@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
 # web
-gem 'nokogiri', '1.8.2'
+gem 'nokogiri', '1.11.4'
 gem 'jekyll'
-gem 'github-pages'
+gem 'github-pages', '>= 83'
